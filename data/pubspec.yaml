@@ -9,6 +9,7 @@ environment:
 
 dependency_overrides:
   analyzer: 5.13.0
+  dart_style: 2.3.3
 
 dependencies:
   artemis: 7.12.0-beta.1

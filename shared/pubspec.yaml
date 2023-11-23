@@ -9,6 +9,7 @@ environment:
 
 dependency_overrides:
   analyzer: 5.13.0
+  dart_style: 2.3.3
 
 dependencies:
   android_id: 0.3.3
@@ -21,7 +22,7 @@ dependencies:
   flutter_cache_manager: 3.3.0
   flutter_udid: 2.0.1
   injectable: 2.1.2
-  intl: 0.18.1
+  intl: any
   mime: 1.0.1
   package_info_plus: 4.0.2
   path_provider: 2.0.15
